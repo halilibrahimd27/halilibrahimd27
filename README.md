@@ -38,6 +38,7 @@
 </picture>
 
 <div align="center">
+     
 ---
      
 ## 🧭 Hakkımda
