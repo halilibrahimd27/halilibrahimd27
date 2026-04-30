@@ -6,11 +6,11 @@
 <div align="center">
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Halil%20İbrahim%20D%C3%BCrm%C3%BC%C5%9F&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20DevSecOps%20%C2%B7%20DevOps%20%26%20SRE&descSize=16&descAlignY=58&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halil%20Ibrahim%20Durmus&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20DevSecOps%20%C2%B7%20DevOps%20%26%20SRE&descSize=18&descAlignY=58&animation=fadeIn" alt="Halil Ibrahim Durmus — Software Engineer · DevSecOps · DevOps & SRE"/>
 </a>
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Software+yazar%C4%B1m%2C+production'a+ta%C5%9F%C4%B1r%C4%B1m%2C+savunurum.;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left%2C+SBOM%2C+SLSA%2C+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Software+yazarim%2C+production%27a+tasirim%2C+savunurum.;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left+%C2%B7+SBOM+%C2%B7+SLSA+%C2%B7+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="role typing animation"/>
 </a>
 
 <br/>
@@ -189,15 +189,15 @@ mottos:
 <table>
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=halilibrahimd27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=halilibrahimd27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="stats"/>
     </td>
     <td>
-      <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=halilibrahimd27&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=4ade80&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=4ade80&dates=8b949e" alt="streak"/>
+      <img height="180" src="https://streak-stats.demolab.com/?user=halilibrahimd27&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=4ade80&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=4ade80&dates=8b949e" alt="streak"/>
     </td>
   </tr>
 </table>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilibrahimd27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" alt="top-langs"/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilibrahimd27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" alt="top languages"/>
 
 </div>
 
@@ -250,16 +250,6 @@ mottos:
 <br/>
 
 <i>Açık kaynak katkıları, security review işbirlikleri, mentorluk ve ilginç problemler için <b>her zaman</b> dinlemeye açığım.</i>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=halilibrahimd27/cheat-sheet,halilibrahimd27/DevOps,halilibrahimd27/databases-stack,halilibrahimd27/file-crypter&type=Date&theme=dark)](https://star-history.com/#halilibrahimd27/cheat-sheet&halilibrahimd27/DevOps&halilibrahimd27/databases-stack&halilibrahimd27/file-crypter&Date)
 
 </div>
 
