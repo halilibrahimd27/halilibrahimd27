@@ -1,0 +1,40 @@
+name: Generate Contribution Snake
+
+on:
+  # Her gün 00:00 UTC'de yenile (yeni contribution'lar yansısın)
+  schedule:
+    - cron: "0 0 * * *"
+  # Manuel tetikleme — Actions tab'ından "Run workflow" butonu
+  workflow_dispatch:
+  # main'e push olduğunda da yenile (workflow değiştiğinde lazım)
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate snake.svg
+    runs-on: ubuntu-latest
+    steps:
+      # Snake SVG'lerini üret (Platane/snk action — pure JS, hızlı)
+      - name: Generate svgs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Üretilen SVG'leri ayrı 'output' branch'ine push et
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
