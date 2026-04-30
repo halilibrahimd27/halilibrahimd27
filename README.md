@@ -4,7 +4,7 @@
 ─────────────────────────────────────────────────────────────────────-->
 
 <!-- TOP BANNER (self-hosted SVG, won't break) -->
-<img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-top.svg" alt="" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-top.svg" alt="" width="100%"/> -->
 
 <!-- CONTRIBUTION SNAKE — günlük cron ile output branch'te güncellenir -->
 <picture>
