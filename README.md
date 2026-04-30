@@ -244,18 +244,17 @@ mottos:
 <div align="center">
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://img.shields.io/badge/halilibrahimd27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: halilibrahimd27"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:s.ibrahimdrms@gmail.com">
-  <img src="https://img.shields.io/badge/s.ibrahimdrms%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: s.ibrahimdrms@gmail.com"/>
-</a>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
-<br/>
-<br/>
+</div>
 
-📮 **`s.ibrahimdrms@gmail.com`** &nbsp; · &nbsp; 🐙 **[`@halilibrahimd27`](https://github.com/halilibrahimd27)**
+```
+s.ibrahimdrms@gmail.com
+```
 
-<br/>
+<div align="center">
 
 <i>Açık kaynak katkıları, security review işbirlikleri, mentorluk ve ilginç problemler için <b>her zaman</b> dinlemeye açığım.</i>
 
