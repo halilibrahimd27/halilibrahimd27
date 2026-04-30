@@ -244,11 +244,16 @@ mottos:
 <div align="center">
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/halilibrahimd27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: halilibrahimd27"/>
 </a>
 <a href="mailto:s.ibrahimdrms@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  <img src="https://img.shields.io/badge/s.ibrahimdrms%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: s.ibrahimdrms@gmail.com"/>
 </a>
+
+<br/>
+<br/>
+
+📮 **`s.ibrahimdrms@gmail.com`** &nbsp; · &nbsp; 🐙 **[`@halilibrahimd27`](https://github.com/halilibrahimd27)**
 
 <br/>
 
