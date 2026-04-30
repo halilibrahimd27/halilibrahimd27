@@ -153,7 +153,7 @@ mottos:
       <h3 align="center">🛰️ api-sentinel</h3>
       <p align="center">
         <a href="https://github.com/halilibrahimd27/api-sentinel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=halilibrahimd27&repo=api-sentinel&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="api-sentinel"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=halilibrahimd27&repo=api-sentinel&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" alt="api-sentinel"/>
         </a>
       </p>
       <p align="center"><i>3. parti API schema değişikliği tespiti — plugin tabanlı, severity-aware monitoring (FastAPI + APScheduler + deepdiff). Auth, alert kanalı, storage hepsi runtime plugin.</i></p>
@@ -173,7 +173,7 @@ mottos:
       <h3 align="center">📊 wakapi-admin</h3>
       <p align="center">
         <a href="https://github.com/halilibrahimd27/wakapi-admin">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=halilibrahimd27&repo=wakapi-admin&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="wakapi-admin"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=halilibrahimd27&repo=wakapi-admin&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" alt="wakapi-admin"/>
         </a>
       </p>
       <p align="center"><i>Wakapi self-hosted stack + custom Flask admin paneli — realtime active users, domain tag system, AI editor detection (Cursor/Copilot/Claude Code/Codeium...)</i></p>
