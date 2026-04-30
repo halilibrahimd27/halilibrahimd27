@@ -37,10 +37,8 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/output/github-snake.svg"/>
 </picture>
 
-<div align="center">
-     
 ---
-     
+
 ## 🧭 Hakkımda
 
 ```yaml
