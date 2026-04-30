@@ -2,16 +2,16 @@
      HALİL İBRAHİM DÜRMÜŞ — GitHub Profile README
      Software Engineer · DevSecOps · DevOps & SRE
 ─────────────────────────────────────────────────────────────────────-->
-
-<!-- TOP BANNER (self-hosted SVG, won't break) -->
-<!-- <img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-top.svg" alt="" width="100%"/> -->
-
 <!-- CONTRIBUTION SNAKE — günlük cron ile output branch'te güncellenir -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/output/github-snake.svg"/>
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/output/github-snake.svg"/>
 </picture>
+
+<div align="center">
+<!-- TOP BANNER (self-hosted SVG, won't break) -->
+<img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-top.svg" alt="" width="100%"/>
 
 <div align="center">
 
