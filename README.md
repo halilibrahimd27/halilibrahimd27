@@ -3,6 +3,9 @@
      Software Engineer · DevSecOps · DevOps & SRE
 ─────────────────────────────────────────────────────────────────────-->
 
+<!-- TOP BANNER (self-hosted SVG, won't break) -->
+<img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-top.svg" alt="" width="100%"/>
+
 <div align="center">
 
 <h1>👋 Selam, ben Halil İbrahim Dürmüş</h1>
@@ -10,7 +13,7 @@
 ### 🚀 Software Engineer · 🛡️ DevSecOps · ⚙️ DevOps & SRE
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Software+yazarim%2C+production%27a+tasirim%2C+savunurum.;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left+%C2%B7+SBOM+%C2%B7+SLSA+%C2%B7+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="role typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left+%C2%B7+SBOM+%C2%B7+SLSA+%C2%B7+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="role typing animation"/>
 </a>
 
 <br/>
@@ -262,3 +265,6 @@ mottos:
 </sub>
 
 </div>
+
+<!-- BOTTOM BANNER (self-hosted SVG, won't break) -->
+<img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-bottom.svg" alt="" width="100%"/>
