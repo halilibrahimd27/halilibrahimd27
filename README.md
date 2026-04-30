@@ -266,5 +266,9 @@ mottos:
 
 </div>
 
+&nbsp;
+
+&nbsp;
+
 <!-- BOTTOM BANNER (self-hosted SVG, won't break) -->
 <img src="https://raw.githubusercontent.com/halilibrahimd27/halilibrahimd27/main/assets/banner-bottom.svg" alt="" width="100%"/>
