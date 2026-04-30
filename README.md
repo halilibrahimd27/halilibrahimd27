@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<a href="https://github.com/halilibrahimd27">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=99999&pause=0&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Halil+%C4%B0brahim+D%C3%BCrm%C3%BC%C5%9F" alt="Halil İbrahim Dürmüş"/>
-</a>
+<h1>👋 Selam, ben Halil İbrahim Dürmüş</h1>
 
 ### 🚀 Software Engineer · 🛡️ DevSecOps · ⚙️ DevOps & SRE
 
