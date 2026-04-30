@@ -6,11 +6,13 @@
 <div align="center">
 
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halil%20Ibrahim%20Durmus&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20DevSecOps%20%C2%B7%20DevOps%20%26%20SRE&descSize=18&descAlignY=58&animation=fadeIn" alt="Halil Ibrahim Durmus — Software Engineer · DevSecOps · DevOps & SRE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=99999&pause=0&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Halil+%C4%B0brahim+D%C3%BCrm%C3%BC%C5%9F" alt="Halil İbrahim Dürmüş"/>
 </a>
 
+### 🚀 Software Engineer · 🛡️ DevSecOps · ⚙️ DevOps & SRE
+
 <a href="https://github.com/halilibrahimd27">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Software+yazarim%2C+production%27a+tasirim%2C+savunurum.;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left+%C2%B7+SBOM+%C2%B7+SLSA+%C2%B7+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="role typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Software+yazarim%2C+production%27a+tasirim%2C+savunurum.;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;DevSecOps+%E2%80%94+shift-left+%C2%B7+SBOM+%C2%B7+SLSA+%C2%B7+supply+chain;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps+%C2%B7+SRE;Offensive+mindset+%26+defensive+code;You+build+it%2C+you+run+it%2C+you+secure+it." alt="role typing animation"/>
 </a>
 
 <br/>
@@ -256,8 +258,6 @@ mottos:
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer"/>
 
 <sub>
 ✨ Profili beğendiysen <a href="https://github.com/halilibrahimd27?tab=repositories">repo'larıma</a> bir göz at, ilgini çekene <b>⭐ ver</b> ve takip et — software, security ve infrastructure üçgeninde yeni içerikler paylaşmaya devam ediyorum.
