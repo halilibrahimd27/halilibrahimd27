@@ -18,16 +18,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/halilibrahimd27">
-  <img src="https://komarev.com/ghpvc/?username=halilibrahimd27&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="profile views"/>
-</a>
-<a href="https://github.com/halilibrahimd27?tab=followers">
-  <img src="https://img.shields.io/github/followers/halilibrahimd27?style=for-the-badge&color=4ade80&logo=github&logoColor=white&label=FOLLOWERS" alt="followers"/>
-</a>
-<a href="https://github.com/halilibrahimd27?tab=stars">
-  <img src="https://img.shields.io/github/stars/halilibrahimd27?style=for-the-badge&color=facc15&logo=github&logoColor=white&label=TOTAL+STARS" alt="stars"/>
-</a>
-
 </div>
 
 <!-- Contribution snake (auto-updated daily) -->
