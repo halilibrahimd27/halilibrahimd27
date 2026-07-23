@@ -96,7 +96,7 @@ DevSecOps disiplinini günlük operasyonun merkezine koyan bir mühendisim. Prod
       <p>Offensive security command reference — 2000+ pentest komutu, 33 kategori. OSCP/OSWE/OSEP/CPTS odaklı, full CRUD, instant search, write-ups, Docker ile tek komutta deploy.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/halilibrahimd27/DevOps">DevOps</a></h3>
+      <h3>📚 <a href="https://github.com/halilibrahimd27/devsecops-handbook">DevOps</a></h3>
       <p><sub><code>Documentation</code> · <code>TR</code></sub></p>
       <p>Modern DevOps başucu kitabı (TR) — 19 konu, 9 cheatsheet, 25+ template. Kubernetes · Terraform · GitOps · SRE · DevSecOps · FinOps · LLMOps kapsamı.</p>
     </td>
